@@ -87,3 +87,14 @@ main {
   background: none;
   padding: 10px;
 }
+
+@media (max-width: 375px) {
+  #addBtn {
+    margin-top: 15px;
+  }
+  #todo-list li {
+    padding: 8px 5px;
+  }
+ 
+
+}
